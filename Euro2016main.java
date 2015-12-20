@@ -61,10 +61,10 @@ public class Euro2016main {
 					
 					if (t1.getPts() > t2.getPts()){
 						return -1;
-					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() >= t2.getGD()) && (t1.getGF() > t2.getGF())){
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() > t2.getGD())){
 						return -1;
-					} else if ((t1.getPts() == t2.getPts()) && (t1.getGD() <= t2.getGD()) && (t1.getGF() > t2.getGF())){
-						return 1;
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() == t2.getGD()) && (t1.getGF() > t2.getGF())){
+						return -1;
 					}
 			
 					return 0;
@@ -112,10 +112,10 @@ public class Euro2016main {
 					
 					if (t1.getPts() > t2.getPts()){
 						return -1;
-					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() >= t2.getGD()) && (t1.getGF() > t2.getGF())){
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() > t2.getGD())){
 						return -1;
-					} else if ((t1.getPts() == t2.getPts()) && (t1.getGD() <= t2.getGD()) && (t1.getGF() > t2.getGF())){
-						return 1;
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() == t2.getGD()) && (t1.getGF() > t2.getGF())){
+						return -1;
 					}
 			
 					return 0;
@@ -164,10 +164,10 @@ public class Euro2016main {
 					
 					if (t1.getPts() > t2.getPts()){
 						return -1;
-					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() >= t2.getGD()) && (t1.getGF() > t2.getGF())){
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() > t2.getGD())){
 						return -1;
-					} else if ((t1.getPts() == t2.getPts()) && (t1.getGD() <= t2.getGD()) && (t1.getGF() > t2.getGF())){
-						return 1;
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() == t2.getGD()) && (t1.getGF() > t2.getGF())){
+						return -1;
 					}
 			
 					return 0;
@@ -215,10 +215,10 @@ public class Euro2016main {
 					
 					if (t1.getPts() > t2.getPts()){
 						return -1;
-					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() >= t2.getGD()) && (t1.getGF() > t2.getGF())){
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() > t2.getGD())){
 						return -1;
-					} else if ((t1.getPts() == t2.getPts()) && (t1.getGD() <= t2.getGD()) && (t1.getGF() > t2.getGF())){
-						return 1;
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() == t2.getGD()) && (t1.getGF() > t2.getGF())){
+						return -1;
 					}
 			
 					return 0;
@@ -267,10 +267,10 @@ public class Euro2016main {
 					
 					if (t1.getPts() > t2.getPts()){
 						return -1;
-					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() >= t2.getGD()) && (t1.getGF() > t2.getGF())){
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() > t2.getGD())){
 						return -1;
-					} else if ((t1.getPts() == t2.getPts()) && (t1.getGD() <= t2.getGD()) && (t1.getGF() > t2.getGF())){
-						return 1;
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() == t2.getGD()) && (t1.getGF() > t2.getGF())){
+						return -1;
 					}
 			
 					return 0;
@@ -318,10 +318,10 @@ public class Euro2016main {
 					
 					if (t1.getPts() > t2.getPts()){
 						return -1;
-					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() >= t2.getGD()) && (t1.getGF() > t2.getGF())){
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() > t2.getGD())){
 						return -1;
-					} else if ((t1.getPts() == t2.getPts()) && (t1.getGD() <= t2.getGD()) && (t1.getGF() > t2.getGF())){
-						return 1;
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() == t2.getGD()) && (t1.getGF() > t2.getGF())){
+						return -1;
 					}
 			
 					return 0;
@@ -353,10 +353,10 @@ public class Euro2016main {
 					
 					if (t1.getPts() > t2.getPts()){
 						return -1;
-					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() >= t2.getGD()) && (t1.getGF() > t2.getGF())){
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() > t2.getGD())){
 						return -1;
-					} else if ((t1.getPts() == t2.getPts()) && (t1.getGD() <= t2.getGD()) && (t1.getGF() > t2.getGF())){
-						return 1;
+					} else if((t1.getPts() == t2.getPts()) && (t1.getGD() == t2.getGD()) && (t1.getGF() > t2.getGF())){
+						return -1;
 					}
 			
 					return 0;
