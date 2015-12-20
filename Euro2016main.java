@@ -486,8 +486,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -499,8 +497,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -512,8 +508,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -525,8 +519,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -538,8 +530,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -551,8 +541,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -564,8 +552,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -577,8 +563,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -635,8 +619,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -648,8 +630,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -661,8 +641,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -674,8 +652,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -715,8 +691,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
@@ -728,8 +702,6 @@ public class Euro2016main {
 					
 					if ((t1.getGF() > t2.getGF()) || (t1.getPK() > t2.getPK())){
 						return -1;
-					} else if ((t1.getGF() < t2.getGF()) || (t1.getPK() < t2.getPK())){
-						return 1;
 					}
 			
 					return 0;
